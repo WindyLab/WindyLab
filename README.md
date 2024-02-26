@@ -11,6 +11,7 @@
 
 Our lab focuses on novel theories and applications of robotic systems, especially multi-robot systems. We are interested in next-generation robotic systems that are interesting, meaningful, and challenging to study. Currently, we have more than 20 group members including postdocs, Ph.D. students, research engineers, and research assistants. Each of them focuses on a specific interesting research direction and in the meantime collaborates with others to create more impactful research results. We have first-rate studying and experimental facilities. More importantly, we have a good scientific research atmosphere that enables students to concentrate to create high-quality research results.
 
+### Our followers
 <!--ACTION_START_FLAG:github-followers-->
 <table>
   <tr>
