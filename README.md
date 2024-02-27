@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://space.bilibili.com/2044042934">
-    <img src="https://img.shields.io/badge/Bilibili-blue?style=socia&logo=bilibili&logoColor=white&labelColor=grey&color=blue"></a>
+    <img src="https://bilistats.lonelyion.com/followers?uid=2044042934"></a>
   <a href="https://www.zhihu.com/people/6a90e389b176a5cd201ec3860c8adbd7">
     <img src="https://img.shields.io/badge/Zhihu-blue?logo=zhihu&logoColor=white&labelColor=grey&color=blue"></a>
   <a href="https://www.youtube.com/channel/UCztGtS5YYiNv8x3pj9hLVgg">
@@ -169,6 +169,21 @@ Our lab focuses on novel theories and applications of robotic systems, especiall
   </tr>
 </table>
 <!--ACTION_END_FLAG:github-followers-->
+
+
+### Our media channels
+
+<p align="center">
+  <a href="https://space.bilibili.com/2044042934">
+    <img src="https://img.shields.io/badge/Bilibili-00A1D6.svg?style=for-the-badge&logo=Bilibili&logoColor=white"></a>
+  <a href="https://www.zhihu.com/people/6a90e389b176a5cd201ec3860c8adbd7">
+    <img src="https://img.shields.io/badge/Zhihu-0084FF.svg?style=for-the-badge&logo=Zhihu&logoColor=white"></a>
+  <a href="https://www.youtube.com/channel/UCztGtS5YYiNv8x3pj9hLVgg">
+    <img src="https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a>
+</p>
+
+<!-- BEGIN YOUTUBE-CARDS -->
+<!-- END YOUTUBE-CARDS -->
 
 Welcome to subscrible our WeChat Public Channel, which publishes our latest research work.
 
