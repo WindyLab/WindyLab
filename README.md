@@ -56,11 +56,25 @@ Our lab focuses on novel theories and applications of robotic systems, especiall
         <a href="https://github.com/tlin-taolin">Tao Lin</a>
     </td>
     <td align="center">
+        <a href="https://github.com/MathFoundationRL">
+            <img src="https://avatars2.githubusercontent.com/u/110452525" width="100px;" alt="MathFoundationRL"/>
+        </a>
+        <br />
+        <a href="https://github.com/MathFoundationRL">Shiyu Zhao</a>
+    </td>
+    <td align="center">
         <a href="https://github.com/MGod-monkey">
             <img src="https://avatars2.githubusercontent.com/u/62071831" width="100px;" alt="MGod-monkey"/>
         </a>
         <br />
         <a href="https://github.com/MGod-monkey">MGodmonkey</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/wenqing-2021">
+            <img src="https://avatars2.githubusercontent.com/u/49775125" width="100px;" alt="wenqing-2021"/>
+        </a>
+        <br />
+        <a href="https://github.com/wenqing-2021">Jay</a>
     </td>
     <td align="center">
         <a href="https://github.com/XuanlinZeng">
@@ -83,6 +97,8 @@ Our lab focuses on novel theories and applications of robotic systems, especiall
         <br />
         <a href="https://github.com/pyzeon">pyzeon</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
         <a href="https://github.com/yonghualiuDR">
             <img src="https://avatars2.githubusercontent.com/u/58734394" width="100px;" alt="yonghualiuDR"/>
@@ -97,8 +113,6 @@ Our lab focuses on novel theories and applications of robotic systems, especiall
         <br />
         <a href="https://github.com/andylijx">andylijx</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
         <a href="https://github.com/gyxxyg">
             <img src="https://avatars2.githubusercontent.com/u/29498800" width="100px;" alt="gyxxyg"/>
@@ -134,6 +148,8 @@ Our lab focuses on novel theories and applications of robotic systems, especiall
         <br />
         <a href="https://github.com/Edenguopy">Edenguopy</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
         <a href="https://github.com/Tich-deng">
             <img src="https://avatars2.githubusercontent.com/u/130575782" width="100px;" alt="Tich-deng"/>
@@ -148,21 +164,19 @@ Our lab focuses on novel theories and applications of robotic systems, especiall
         <br />
         <a href="https://github.com/ljslam213">Jin Li</a>
     </td>
-  </tr>
-  <tr>
-    <td align="center">
-        <a href="https://github.com/mortal-uav">
-            <img src="https://avatars2.githubusercontent.com/u/129817416" width="100px;" alt="mortal-uav"/>
-        </a>
-        <br />
-        <a href="https://github.com/mortal-uav">mortal-uav</a>
-    </td>
     <td align="center">
         <a href="https://github.com/Xiaolei1989">
             <img src="https://avatars2.githubusercontent.com/u/33650483" width="100px;" alt="Xiaolei1989"/>
         </a>
         <br />
         <a href="https://github.com/Xiaolei1989">Li Xiaolei</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/mortal-uav">
+            <img src="https://avatars2.githubusercontent.com/u/129817416" width="100px;" alt="mortal-uav"/>
+        </a>
+        <br />
+        <a href="https://github.com/mortal-uav">mortal-uav</a>
     </td>
     <td align="center">
         <a href="https://github.com/purealgo">
@@ -184,20 +198,6 @@ Our lab focuses on novel theories and applications of robotic systems, especiall
         </a>
         <br />
         <a href="https://github.com/kudouxiao">kudouxiao</a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/white-bubbleee">
-            <img src="https://avatars2.githubusercontent.com/u/84440191" width="100px;" alt="white-bubbleee"/>
-        </a>
-        <br />
-        <a href="https://github.com/white-bubbleee">white-bubbleee</a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/zyczmy">
-            <img src="https://avatars2.githubusercontent.com/u/145195702" width="100px;" alt="zyczmy"/>
-        </a>
-        <br />
-        <a href="https://github.com/zyczmy">zyczmy</a>
     </td>
   </tr>
 </table>
