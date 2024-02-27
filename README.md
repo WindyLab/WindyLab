@@ -9,6 +9,13 @@
     <img src="https://img.shields.io/badge/Youtube-blue?logo=youtube&logoColor=white&labelColor=grey&color=blue"></a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/WestlakeIntelligentRobotics?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/WestlakeIntelligentRobotics?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+  <a href="https://github.com/WestlakeIntelligentRobotics?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/WestlakeIntelligentRobotics?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+</p>
+
 Our lab focuses on novel theories and applications of robotic systems, especially multi-robot systems. We are interested in next-generation robotic systems that are interesting, meaningful, and challenging to study. Currently, we have more than 20 group members including postdocs, Ph.D. students, research engineers, and research assistants. Each of them focuses on a specific interesting research direction and in the meantime collaborates with others to create more impactful research results. We have first-rate studying and experimental facilities. More importantly, we have a good scientific research atmosphere that enables students to concentrate to create high-quality research results.
 
 ### Our media channels
