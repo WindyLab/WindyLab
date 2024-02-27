@@ -11,7 +11,33 @@
 
 Our lab focuses on novel theories and applications of robotic systems, especially multi-robot systems. We are interested in next-generation robotic systems that are interesting, meaningful, and challenging to study. Currently, we have more than 20 group members including postdocs, Ph.D. students, research engineers, and research assistants. Each of them focuses on a specific interesting research direction and in the meantime collaborates with others to create more impactful research results. We have first-rate studying and experimental facilities. More importantly, we have a good scientific research atmosphere that enables students to concentrate to create high-quality research results.
 
+### Our media channels
+
+<p align="center">
+  <a href="https://space.bilibili.com/2044042934">
+    <img src="https://img.shields.io/badge/Bilibili-00A1D6.svg?style=for-the-badge&logo=Bilibili&logoColor=white"></a>
+  <a href="https://www.zhihu.com/people/6a90e389b176a5cd201ec3860c8adbd7">
+    <img src="https://img.shields.io/badge/Zhihu-0084FF.svg?style=for-the-badge&logo=Zhihu&logoColor=white"></a>
+  <a href="https://www.youtube.com/channel/UCztGtS5YYiNv8x3pj9hLVgg">
+    <img src="https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a>
+</p>
+
+<div align="center">
+  
+<!-- BEGIN YOUTUBE-CARDS -->
+[![[IJRR-2024] Novel Bearing-Angle Method Significantly Enhances the Visual Localization Observability.](https://ytcards.demolab.com/?id=EMQXMJ3_M9Y&title=%5BIJRR-2024%5D+Novel+Bearing-Angle+Method+Significantly+Enhances+the+Visual+Localization+Observability.&lang=en&timestamp=1708495924&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "[IJRR-2024] Novel Bearing-Angle Method Significantly Enhances the Visual Localization Observability.")](https://www.youtube.com/watch?v=EMQXMJ3_M9Y)
+[![Multi-Agent Consensus Seeking via Large Language Models](https://ytcards.demolab.com/?id=OU2L7MEqNK0&title=Multi-Agent+Consensus+Seeking+via+Large+Language+Models&lang=en&timestamp=1699859722&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Multi-Agent Consensus Seeking via Large Language Models")](https://www.youtube.com/watch?v=OU2L7MEqNK0)
+[![[NJP-2023] Predator-prey survival pressure is sufficient to evolve swarming behaviors](https://ytcards.demolab.com/?id=Gt9v7cN6FII&title=%5BNJP-2023%5D+Predator-prey+survival+pressure+is+sufficient+to+evolve+swarming+behaviors&lang=en&timestamp=1693822508&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "[NJP-2023] Predator-prey survival pressure is sufficient to evolve swarming behaviors")](https://www.youtube.com/watch?v=Gt9v7cN6FII)
+[![[Nature Communications-2023] Mean-Shift Exploration in Shape Assembly of Robot Swarms](https://ytcards.demolab.com/?id=inoifg2tcJM&title=%5BNature+Communications-2023%5D+Mean-Shift+Exploration+in+Shape+Assembly+of+Robot+Swarms&lang=en&timestamp=1686811777&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "[Nature Communications-2023] Mean-Shift Exploration in Shape Assembly of Robot Swarms")](https://www.youtube.com/watch?v=inoifg2tcJM)
+[![Global-Local MAV Detection under ChallengingConditions based on Appearance and Motion](https://ytcards.demolab.com/?id=Tv473mAzHbU&title=Global-Local+MAV+Detection+under+ChallengingConditions+based+on+Appearance+and+Motion&lang=en&timestamp=1685596918&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Global-Local MAV Detection under ChallengingConditions based on Appearance and Motion")](https://www.youtube.com/watch?v=Tv473mAzHbU)
+[![Motion Planning for Aerial Pick-and-Place basedon Geometric Feasibility Constraints](https://ytcards.demolab.com/?id=q7O9v7l2Oho&title=Motion+Planning+for+Aerial+Pick-and-Place+basedon+Geometric+Feasibility+Constraints&lang=en&timestamp=1685429401&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Motion Planning for Aerial Pick-and-Place basedon Geometric Feasibility Constraints")](https://www.youtube.com/watch?v=q7O9v7l2Oho)
+<!-- END YOUTUBE-CARDS -->
+  
+</div>
+
 ### Our followers
+
+<div align="center">
 <!--ACTION_START_FLAG:github-followers-->
 <table>
   <tr>
@@ -170,26 +196,7 @@ Our lab focuses on novel theories and applications of robotic systems, especiall
 </table>
 <!--ACTION_END_FLAG:github-followers-->
 
-
-### Our media channels
-
-<p align="center">
-  <a href="https://space.bilibili.com/2044042934">
-    <img src="https://img.shields.io/badge/Bilibili-00A1D6.svg?style=for-the-badge&logo=Bilibili&logoColor=white"></a>
-  <a href="https://www.zhihu.com/people/6a90e389b176a5cd201ec3860c8adbd7">
-    <img src="https://img.shields.io/badge/Zhihu-0084FF.svg?style=for-the-badge&logo=Zhihu&logoColor=white"></a>
-  <a href="https://www.youtube.com/channel/UCztGtS5YYiNv8x3pj9hLVgg">
-    <img src="https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a>
-</p>
-
-<!-- BEGIN YOUTUBE-CARDS -->
-[![[IJRR-2024] Novel Bearing-Angle Method Significantly Enhances the Visual Localization Observability.](https://ytcards.demolab.com/?id=EMQXMJ3_M9Y&title=%5BIJRR-2024%5D+Novel+Bearing-Angle+Method+Significantly+Enhances+the+Visual+Localization+Observability.&lang=en&timestamp=1708495924&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "[IJRR-2024] Novel Bearing-Angle Method Significantly Enhances the Visual Localization Observability.")](https://www.youtube.com/watch?v=EMQXMJ3_M9Y)
-[![Multi-Agent Consensus Seeking via Large Language Models](https://ytcards.demolab.com/?id=OU2L7MEqNK0&title=Multi-Agent+Consensus+Seeking+via+Large+Language+Models&lang=en&timestamp=1699859722&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Multi-Agent Consensus Seeking via Large Language Models")](https://www.youtube.com/watch?v=OU2L7MEqNK0)
-[![[NJP-2023] Predator-prey survival pressure is sufficient to evolve swarming behaviors](https://ytcards.demolab.com/?id=Gt9v7cN6FII&title=%5BNJP-2023%5D+Predator-prey+survival+pressure+is+sufficient+to+evolve+swarming+behaviors&lang=en&timestamp=1693822508&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "[NJP-2023] Predator-prey survival pressure is sufficient to evolve swarming behaviors")](https://www.youtube.com/watch?v=Gt9v7cN6FII)
-[![[Nature Communications-2023] Mean-Shift Exploration in Shape Assembly of Robot Swarms](https://ytcards.demolab.com/?id=inoifg2tcJM&title=%5BNature+Communications-2023%5D+Mean-Shift+Exploration+in+Shape+Assembly+of+Robot+Swarms&lang=en&timestamp=1686811777&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "[Nature Communications-2023] Mean-Shift Exploration in Shape Assembly of Robot Swarms")](https://www.youtube.com/watch?v=inoifg2tcJM)
-[![Global-Local MAV Detection under ChallengingConditions based on Appearance and Motion](https://ytcards.demolab.com/?id=Tv473mAzHbU&title=Global-Local+MAV+Detection+under+ChallengingConditions+based+on+Appearance+and+Motion&lang=en&timestamp=1685596918&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Global-Local MAV Detection under ChallengingConditions based on Appearance and Motion")](https://www.youtube.com/watch?v=Tv473mAzHbU)
-[![Motion Planning for Aerial Pick-and-Place basedon Geometric Feasibility Constraints](https://ytcards.demolab.com/?id=q7O9v7l2Oho&title=Motion+Planning+for+Aerial+Pick-and-Place+basedon+Geometric+Feasibility+Constraints&lang=en&timestamp=1685429401&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Motion Planning for Aerial Pick-and-Place basedon Geometric Feasibility Constraints")](https://www.youtube.com/watch?v=q7O9v7l2Oho)
-<!-- END YOUTUBE-CARDS -->
+</div>
 
 Welcome to subscrible our WeChat Public Channel, which publishes our latest research work.
 
