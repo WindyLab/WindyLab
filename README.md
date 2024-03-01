@@ -165,6 +165,13 @@ Our lab focuses on novel theories and applications of robotic systems, especiall
         <a href="https://github.com/ljslam213">Jin Li</a>
     </td>
     <td align="center">
+        <a href="https://github.com/kudouxiao">
+            <img src="https://avatars2.githubusercontent.com/u/150041717" width="100px;" alt="kudouxiao"/>
+        </a>
+        <br />
+        <a href="https://github.com/kudouxiao">kudouxiao</a>
+    </td>
+    <td align="center">
         <a href="https://github.com/mortal-uav">
             <img src="https://avatars2.githubusercontent.com/u/129817416" width="100px;" alt="mortal-uav"/>
         </a>
@@ -177,13 +184,6 @@ Our lab focuses on novel theories and applications of robotic systems, especiall
         </a>
         <br />
         <a href="https://github.com/Xiaolei1989">Li Xiaolei</a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/kudouxiao">
-            <img src="https://avatars2.githubusercontent.com/u/150041717" width="100px;" alt="kudouxiao"/>
-        </a>
-        <br />
-        <a href="https://github.com/kudouxiao">kudouxiao</a>
     </td>
     <td align="center">
         <a href="https://github.com/purealgo">
