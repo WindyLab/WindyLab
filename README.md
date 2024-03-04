@@ -70,18 +70,18 @@ Our lab focuses on novel theories and applications of robotic systems, especiall
         <a href="https://github.com/MGod-monkey">MGodmonkey</a>
     </td>
     <td align="center">
-        <a href="https://github.com/wenqing-2021">
-            <img src="https://avatars2.githubusercontent.com/u/49775125" width="100px;" alt="wenqing-2021"/>
-        </a>
-        <br />
-        <a href="https://github.com/wenqing-2021">Jay</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/XuanlinZeng">
             <img src="https://avatars2.githubusercontent.com/u/91841853" width="100px;" alt="XuanlinZeng"/>
         </a>
         <br />
         <a href="https://github.com/XuanlinZeng">Xuanlin Zeng</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/wenqing-2021">
+            <img src="https://avatars2.githubusercontent.com/u/49775125" width="100px;" alt="wenqing-2021"/>
+        </a>
+        <br />
+        <a href="https://github.com/wenqing-2021">Jay</a>
     </td>
     <td align="center">
         <a href="https://github.com/superboySB">
@@ -158,18 +158,18 @@ Our lab focuses on novel theories and applications of robotic systems, especiall
         <a href="https://github.com/Tich-deng">Tich-deng</a>
     </td>
     <td align="center">
-        <a href="https://github.com/ljslam213">
-            <img src="https://avatars2.githubusercontent.com/u/113519959" width="100px;" alt="ljslam213"/>
-        </a>
-        <br />
-        <a href="https://github.com/ljslam213">Jin Li</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/kudouxiao">
             <img src="https://avatars2.githubusercontent.com/u/150041717" width="100px;" alt="kudouxiao"/>
         </a>
         <br />
         <a href="https://github.com/kudouxiao">kudouxiao</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/ljslam213">
+            <img src="https://avatars2.githubusercontent.com/u/113519959" width="100px;" alt="ljslam213"/>
+        </a>
+        <br />
+        <a href="https://github.com/ljslam213">Jin Li</a>
     </td>
     <td align="center">
         <a href="https://github.com/mortal-uav">
