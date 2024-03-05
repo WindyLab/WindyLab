@@ -128,18 +128,18 @@ Our lab focuses on novel theories and applications of robotic systems, especiall
         <a href="https://github.com/XiaofengLin7">XiaofengLin</a>
     </td>
     <td align="center">
-        <a href="https://github.com/ZhouHnag">
-            <img src="https://avatars2.githubusercontent.com/u/52713877" width="100px;" alt="ZhouHnag"/>
-        </a>
-        <br />
-        <a href="https://github.com/ZhouHnag">ZhouHang</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/aeroue">
             <img src="https://avatars2.githubusercontent.com/u/56834692" width="100px;" alt="aeroue"/>
         </a>
         <br />
         <a href="https://github.com/aeroue">Wu</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/ZhouHnag">
+            <img src="https://avatars2.githubusercontent.com/u/52713877" width="100px;" alt="ZhouHnag"/>
+        </a>
+        <br />
+        <a href="https://github.com/ZhouHnag">ZhouHang</a>
     </td>
     <td align="center">
         <a href="https://github.com/Edenguopy">
