@@ -193,11 +193,11 @@ Our lab focuses on novel theories and applications of robotic systems, especiall
         <a href="https://github.com/purealgo">Lys</a>
     </td>
     <td align="center">
-        <a href="https://github.com/zhangjinwen0103">
-            <img src="https://avatars2.githubusercontent.com/u/115148172" width="100px;" alt="zhangjinwen0103"/>
+        <a href="https://github.com/zyczmy">
+            <img src="https://avatars2.githubusercontent.com/u/145195702" width="100px;" alt="zyczmy"/>
         </a>
         <br />
-        <a href="https://github.com/zhangjinwen0103">Jinwen Zhang</a>
+        <a href="https://github.com/zyczmy">zyczmy</a>
     </td>
   </tr>
 </table>
