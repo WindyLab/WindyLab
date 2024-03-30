@@ -1,0 +1,41 @@
+# 源码：https://github.com/huabench/github-workflow-zhihu/blob/main/.github/workflows/zhihu_followers.yml
+# 作者：huabench
+
+name: Update Zhihu Follower Badge
+
+on:
+  schedule:
+    # 每天 UTC 时间00:00 运行
+    - cron: '0 0 * * *'
+  # workflow_dispatch:
+    # 手动触发
+
+jobs:
+  update-badge:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'
+
+    - name: Install dependencies
+      run: pip install -r requirements.txt
+
+    # 获取知乎的 follower 数量并生成 badge
+    - name: Generate Zhihu Follower Badge
+      run: python src/generate_zhihu_badge.py
+      env:
+        ZHIHU_USERNAME: kong-zhong-ji-qi-ren-qian-yan
+      
+    - name: Commit and push if changed
+      run: |
+        git config --global user.email "action@github.com"
+        git config --global user.name "GitHub Action"
+        git add -A
+        git commit -m "Update Zhihu Follower Badge" -a || exit 0 # 如果没有变更则退出
+        git push
