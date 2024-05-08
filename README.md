@@ -4,7 +4,7 @@
   <a href="https://space.bilibili.com/2044042934">
     <img src="https://bilistats.lonelyion.com/followers?uid=2044042934"></a>
   <a href="https://www.zhihu.com/people/kong-zhong-ji-qi-ren-qian-yan">
-    <img src="https://img.shields.io/badge/4036-blue?logo=zhihu&logoColor=blue&label=Follower&labelColor=white&color=blue"></a>
+    <img src="https://img.shields.io/badge/4041-blue?logo=zhihu&logoColor=blue&label=Follower&labelColor=white&color=blue"></a>
   <a href="https://www.youtube.com/channel/UCztGtS5YYiNv8x3pj9hLVgg">
     <img src="https://img.shields.io/badge/Youtube-blue?logo=youtube&logoColor=white&labelColor=grey&color=blue"></a>
 </p>
