@@ -1,4 +1,4 @@
-### Welcome to the Intelligent Unmanned Systems Laboratory at Westlake University!  👋
+### Welcome to the WINDY Lab at Westlake University! 👋
 
 <p align="center">
   <a href="https://space.bilibili.com/2044042934">
@@ -16,7 +16,7 @@
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/WestlakeIntelligentRobotics?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
 
-Our lab focuses on novel theories and applications of robotic systems, especially multi-robot systems. We are interested in next-generation robotic systems that are interesting, meaningful, and challenging to study. Currently, we have more than 20 group members including postdocs, Ph.D. students, research engineers, and research assistants. Each of them focuses on a specific interesting research direction and in the meantime collaborates with others to create more impactful research results. We have first-rate studying and experimental facilities. More importantly, we have a good scientific research atmosphere that enables students to concentrate to create high-quality research results.
+The WINDY Lab (Westlake Intelligent uNmanned sYstems Lab) focuses on novel theories and applications of robotic systems, especially multi-robot systems. We are interested in next-generation robotic systems that are interesting, meaningful, and challenging to study. For more information of our lab, please visit https://shiyuzhao.westlake.edu.cn/
 
 Welcome to subscrible our WeChat Public Channel, which publishes our latest research work.
 
