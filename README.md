@@ -12,8 +12,8 @@
 <p align="center">
   <a href="https://github.com/WestlakeIntelligentRobotics?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/WestlakeIntelligentRobotics?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  <a href="https://github.com/WestlakeIntelligentRobotics?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/WestlakeIntelligentRobotics?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/WindyLab?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/WindyLab?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
 
 The WINDY Lab (Westlake Intelligent uNmanned sYstems Lab) focuses on novel theories and applications of robotic systems, especially multi-robot systems. We are interested in next-generation robotic systems that are interesting, meaningful, and challenging to study. For more information of our lab, please visit https://shiyuzhao.westlake.edu.cn/
