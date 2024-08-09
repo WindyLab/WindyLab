@@ -44,7 +44,7 @@ Welcome to subscrible our WeChat Public Channel, which publishes our latest rese
   </tr>
 
   <tr>
-    <td align="center" valign="top" height="150">
+    <td align="center" valign="center" height="150">
       <img src="https://github.com/user-attachments/assets/c45fc2fe-bdfc-4978-97a1-bcfe1c7fc61a" alt="项目缩略图" height="150"/>
     </td>
     <td align="left" valign="top" height="150">
@@ -65,7 +65,7 @@ Welcome to subscrible our WeChat Public Channel, which publishes our latest rese
   </tr>
 
   <tr>
-    <td align="center" valign="top" height="150">
+    <td align="center" valign="center" height="150">
       <img src="https://private-user-images.githubusercontent.com/125523389/307700789-656b737a-d846-4206-9d9b-0a4faec524af.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjMxOTI3MjQsIm5iZiI6MTcyMzE5MjQyNCwicGF0aCI6Ii8xMjU1MjMzODkvMzA3NzAwNzg5LTY1NmI3MzdhLWQ4NDYtNDIwNi05ZDliLTBhNGZhZWM1MjRhZi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwODA5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDgwOVQwODMzNDRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03Yzk4OWI5YmYxZjYwY2U0YWNkZTFkZDY1NThiYTJkNWE5ZjZhMGEzZTE0YjUyYzkzMTRjMDQ1M2E4OGVlZjlmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.iJ6QI78Zg2vkXP8luLNGikr7kfaSQZ7JYZE2z2dG7BE" alt="项目缩略图" height="150"/>
     </td>
     <td align="left" valign="top" height="150">
@@ -86,7 +86,7 @@ Welcome to subscrible our WeChat Public Channel, which publishes our latest rese
     </td>
   </tr>
   <tr>
-    <td align="center" valign="top" height="150">
+    <td align="center" valign="center" height="150">
       <img src="https://private-user-images.githubusercontent.com/125523389/308067067-b5d6de01-028b-4c40-9af3-862bc0e0bba4.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjMxOTMxNDIsIm5iZiI6MTcyMzE5Mjg0MiwicGF0aCI6Ii8xMjU1MjMzODkvMzA4MDY3MDY3LWI1ZDZkZTAxLTAyOGItNGM0MC05YWYzLTg2MmJjMGUwYmJhNC5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwODA5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDgwOVQwODQwNDJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yMThjYTQwNTYwM2MyM2E0MTM5NDI2NzI4YWM0NzYxZDg5NTRkZGQ0ZWIwNDMwYTY4NzQ2OTg1ZmM0YTllYWU0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.DcuPgfXAuDs1Vo7VnXb1EGYj__XNx_zgNVaqpM0lq2c" alt="项目缩略图" height="150"/>
     </td>
     <td align="left" valign="top" height="150">
@@ -96,12 +96,12 @@ Welcome to subscrible our WeChat Public Channel, which publishes our latest rese
   </tr>
 
    <tr>
-    <td align="center" valign="top" height="150">
+    <td align="center" valign="center" height="150">
       <img src="https://private-user-images.githubusercontent.com/19403501/309174913-aae88b28-0472-4be7-8e4e-35aa3d4683c0.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjMxOTMxNDgsIm5iZiI6MTcyMzE5Mjg0OCwicGF0aCI6Ii8xOTQwMzUwMS8zMDkxNzQ5MTMtYWFlODhiMjgtMDQ3Mi00YmU3LThlNGUtMzVhYTNkNDY4M2MwLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MDklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODA5VDA4NDA0OFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTNjMzJhYzkzYzI0YzQxNzRiN2ZmZjYzMjIwMmUzM2YyZjkxMzI5YzQ4MmU2MTAyNDI5ZjEzMWJhMzMwNzFjY2UmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.myrRzG7nnzPXJeHQZJlsdA7kdQAuVqO0Kpy4QrD9R4U" alt="项目缩略图" height="150"/>
     </td>
     <td align="left" valign="top" height="150">
       <h3><a href="https://github.com/WindyLab/Bearing-angle">A bearing-angle approach for unknown target motion analysis based on visual measurement</a></h3>
-      <p>This is the repository for the paper "Domain Adaptive Detection of MAVs: A Benchmark and Noise Suppression Network". This paper has been officially accepted by IEEE Transactions on Automation Science and Engineering.</p>
+      <p>This is the source code for our IJRR paper "A bearing-angle approach for unknown target motion analysis based on visual measurements". This file contains five numerical simulation experiments conresponding to Fig. 4 and Fig. 5 in the paper.</p>
        <a href="https://arxiv.org/abs/2401.17117">
     <img src="https://img.shields.io/badge/arXiv-paper?style=socia&logo=arxiv&logoColor=white&labelColor=grey&color=blue"></a>
   <a href="https://arxiv.org/pdf/2401.17117.pdf">
@@ -120,7 +120,7 @@ Welcome to subscrible our WeChat Public Channel, which publishes our latest rese
   </tr>
 
    <tr>
-    <td align="center" valign="top" height="150">
+    <td align="center" valign="center" height="150">
       <img src="https://github.com/WindyLab/Gym-PPS/raw/main/example_pps/after_evolution.gif" alt="项目缩略图" height="150"/>
     </td>
     <td align="left" valign="top" height="150">
