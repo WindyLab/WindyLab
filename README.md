@@ -27,7 +27,7 @@ Welcome to subscrible our WeChat Public Channel, which publishes our latest rese
 <table>
   <tr>
     <td align="center" valign="top" height="150" width="300">
-      <img src="https://private-user-images.githubusercontent.com/125523389/308012173-257a4227-ac3e-4f8e-8f2a-49e666366dde.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjMxOTIxNTgsIm5iZiI6MTcyMzE5MTg1OCwicGF0aCI6Ii8xMjU1MjMzODkvMzA4MDEyMTczLTI1N2E0MjI3LWFjM2UtNGY4ZS04ZjJhLTQ5ZTY2NjM2NmRkZS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwODA5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDgwOVQwODI0MThaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jMWRiZmY1MWMxOWNhN2UwNjA1Y2E0NmIxZTQ4NzI3YzM5ODhmMzIxYmU3YjhhMDQ0NzVhYTBhZWI3YjI1MGRjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.yJgSdJdVREuSSSESZjB2H29MQsbqEPyowc_QwtJKn_I" alt="项目缩略图" height="150"/>
+      <img src="https://github.com/WestlakeIntelligentRobotics/Shape-assembly-code/assets/125523389/257a4227-ac3e-4f8e-8f2a-49e666366dde" alt="项目缩略图" height="150"/>
     </td>
     <td align="left" valign="top" height="150">
       <h3><a href="https://github.com/WindyLab/Shape-assembly-code">Mean-shift exploration in shape assembly of robot swarms</a></h3>
@@ -66,7 +66,7 @@ Welcome to subscrible our WeChat Public Channel, which publishes our latest rese
 
   <tr>
     <td align="center" valign="center" height="150">
-      <img src="https://private-user-images.githubusercontent.com/125523389/307700789-656b737a-d846-4206-9d9b-0a4faec524af.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjMxOTI3MjQsIm5iZiI6MTcyMzE5MjQyNCwicGF0aCI6Ii8xMjU1MjMzODkvMzA3NzAwNzg5LTY1NmI3MzdhLWQ4NDYtNDIwNi05ZDliLTBhNGZhZWM1MjRhZi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwODA5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDgwOVQwODMzNDRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03Yzk4OWI5YmYxZjYwY2U0YWNkZTFkZDY1NThiYTJkNWE5ZjZhMGEzZTE0YjUyYzkzMTRjMDQ1M2E4OGVlZjlmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.iJ6QI78Zg2vkXP8luLNGikr7kfaSQZ7JYZE2z2dG7BE" alt="项目缩略图" height="150"/>
+      <img src="https://github.com/WestlakeIntelligentRobotics/Global-Local-MAV-Detection/assets/125523389/656b737a-d846-4206-9d9b-0a4faec524af" alt="项目缩略图" height="150"/>
     </td>
     <td align="left" valign="top" height="150">
       <h3><a href="https://github.com/WindyLab/Global-Local-MAV-Detection">Global-Local MAV Detection under Challenging Conditions based on Appearance and Motion</a></h3>
@@ -87,7 +87,7 @@ Welcome to subscrible our WeChat Public Channel, which publishes our latest rese
   </tr>
   <tr>
     <td align="center" valign="center" height="150">
-      <img src="https://private-user-images.githubusercontent.com/125523389/308067067-b5d6de01-028b-4c40-9af3-862bc0e0bba4.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjMxOTMxNDIsIm5iZiI6MTcyMzE5Mjg0MiwicGF0aCI6Ii8xMjU1MjMzODkvMzA4MDY3MDY3LWI1ZDZkZTAxLTAyOGItNGM0MC05YWYzLTg2MmJjMGUwYmJhNC5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwODA5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDgwOVQwODQwNDJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yMThjYTQwNTYwM2MyM2E0MTM5NDI2NzI4YWM0NzYxZDg5NTRkZGQ0ZWIwNDMwYTY4NzQ2OTg1ZmM0YTllYWU0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.DcuPgfXAuDs1Vo7VnXb1EGYj__XNx_zgNVaqpM0lq2c" alt="项目缩略图" height="150"/>
+      <img src="https://github.com/WestlakeIntelligentRobotics/M3D/assets/125523389/b5d6de01-028b-4c40-9af3-862bc0e0bba4" alt="项目缩略图" height="150"/>
     </td>
     <td align="left" valign="top" height="150">
       <h3><a href="https://github.com/WindyLab/M3D">Domain Adaptive Detection of MAVs: A Benchmark and Noise Suppression Network</a></h3>
@@ -97,7 +97,7 @@ Welcome to subscrible our WeChat Public Channel, which publishes our latest rese
 
    <tr>
     <td align="center" valign="center" height="150">
-      <img src="https://private-user-images.githubusercontent.com/19403501/309174913-aae88b28-0472-4be7-8e4e-35aa3d4683c0.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjMxOTMxNDgsIm5iZiI6MTcyMzE5Mjg0OCwicGF0aCI6Ii8xOTQwMzUwMS8zMDkxNzQ5MTMtYWFlODhiMjgtMDQ3Mi00YmU3LThlNGUtMzVhYTNkNDY4M2MwLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MDklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODA5VDA4NDA0OFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTNjMzJhYzkzYzI0YzQxNzRiN2ZmZjYzMjIwMmUzM2YyZjkxMzI5YzQ4MmU2MTAyNDI5ZjEzMWJhMzMwNzFjY2UmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.myrRzG7nnzPXJeHQZJlsdA7kdQAuVqO0Kpy4QrD9R4U" alt="项目缩略图" height="150"/>
+      <img src="https://github.com/ningzian/Bearing-angle/assets/19403501/aae88b28-0472-4be7-8e4e-35aa3d4683c0" alt="项目缩略图" height="150"/>
     </td>
     <td align="left" valign="top" height="150">
       <h3><a href="https://github.com/WindyLab/Bearing-angle">A bearing-angle approach for unknown target motion analysis based on visual measurement</a></h3>
