@@ -11,9 +11,9 @@
 
 ### Welcome to the WINDY Lab at Westlake University! 👋
 
-The WINDY Lab (Westlake Intelligent uNmanned sYstems Lab) focuses on novel theories and applications of robotic systems, especially multi-robot systems. We are interested in next-generation robotic systems that are interesting, meaningful, and challenging to study. For more information of our lab, please visit https://shiyuzhao.westlake.edu.cn/
+The WINDY Lab (**W**estlake **IN**telligent unmanne**D** s**Y**stems Laboratory) focuses on novel theories and applications of robotic systems, especially multi-robot systems. We are interested in next-generation robotic systems that are interesting, meaningful, and challenging to study. For more information of our lab, please visit https://shiyuzhao.westlake.edu.cn/
 
-#### Research works
+#### Research
 
 <table>
   <tr>
