@@ -132,9 +132,9 @@ The WINDY Lab (**W**estlake **IN**telligent unmanne**D** s**Y**stems Laboratory)
         in August 2023. </p>
 
 <a href="https://iopscience.iop.org/article/10.1088/1367-2630/acf33a">
-    <img src="https://img.shields.io/badge/arXiv-paper?style=socia&logo=googledocv&logoColor=white&labelColor=grey&color=blue"></a>
+    <img src="https://img.shields.io/badge/Paper-blue?style=socia&logo=googledocs&logoColor=white&labelColor=grey&color=blue"></a>
 <a href="https://arxiv.org/abs/2308.12624">
-  <img src="https://img.shields.io/badge/Paper-blue?logo=arxiv&logoColor=white&labelColor=grey&color=blue"></a>
+  <img src="https://img.shields.io/badge/arXiv-blue?logo=arxiv&logoColor=white&labelColor=grey&color=blue"></a>
 <a href="https://www.youtube.com/watch?v=Gt9v7cN6FII">
   <img src="https://img.shields.io/badge/Youtube-blue?logo=youtube&logoColor=white&labelColor=grey&color=blue"></a>
 <a href="https://www.bilibili.com/video/BV1zp4y1772H/">
