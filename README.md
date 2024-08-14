@@ -88,6 +88,12 @@ The WINDY Lab (**W**estlake **IN**telligent unmanne**D** s**Y**stems Laboratory)
       <h3><a href="https://github.com/WindyLab/M3D">Domain Adaptive Detection of MAVs: A Benchmark and Noise Suppression Network</a></h3>
       <p>This is the repository for the paper "Domain Adaptive Detection of MAVs: A Benchmark and Noise Suppression Network". This paper has been officially accepted by 
         <a href="https://ieeexplore.ieee.org/document/10456581">IEEE Transactions on Automation Science and Engineering</a> in February 2024.</p>
+      <a href="https://ieeexplore.ieee.org/document/10456581">
+        <img src="https://img.shields.io/badge/Paper-blue?logo=ieee&logoColor=white&labelColor=grey&color=blue"></a>
+      <a href="https://westlakeu-my.sharepoint.com/:f:/g/personal/zhao_lab_westlake_edu_cn/Er96hmAJKZdKrjlBAMPLuFoBp3Gnuwy7k0Phqv8RZkO5sw?e=6FIzeZ">
+        <img src="https://img.shields.io/badge/Dataset-blue?logo=microsoftsharepoint&logoColor=white&labelColor=grey&color=blue"></a>
+      <a href="https://opensource.org/licenses/MIT">
+        <img src="https://img.shields.io/badge/License-MIT-yellow.svg"></a>
     </td>
   </tr>
 
@@ -97,8 +103,8 @@ The WINDY Lab (**W**estlake **IN**telligent unmanne**D** s**Y**stems Laboratory)
     </td>
     <td align="left" valign="top" height="150">
       <h3><a href="https://github.com/WindyLab/Bearing-angle">A bearing-angle approach for unknown target motion analysis based on visual measurement</a></h3>
-      <p>This is the source code for our <a href="https://journals.sagepub.com/doi/10.1177/02783649241229172">IJRR</a> 
-        paper "A bearing-angle approach for unknown target motion analysis based on visual measurements". This file contains five numerical simulation experiments conresponding to Fig. 4 and Fig. 5 in the paper.</p>
+      <p>This is the source code for our <a href="https://journals.sagepub.com/doi/10.1177/02783649241229172">International Journal of Research and Review (IJRR)</a> 
+        paper "A bearing-angle approach for unknown target motion analysis based on visual measurements" published in February 2024.</p>
        <a href="https://arxiv.org/abs/2401.17117">
     <img src="https://img.shields.io/badge/arXiv-paper?style=socia&logo=arxiv&logoColor=white&labelColor=grey&color=blue"></a>
   <a href="https://arxiv.org/pdf/2401.17117.pdf">
@@ -124,6 +130,15 @@ The WINDY Lab (**W**estlake **IN**telligent unmanne**D** s**Y**stems Laboratory)
       <p>This is the source code for our paper, "Predator-prey survival pressure is sufficient to evolve swarming behaviors", published in 
         <a href="https://iopscience.iop.org/article/10.1088/1367-2630/acf33a">New Journal of Physics</a> 
         in August 2023. </p>
+
+<a href="https://iopscience.iop.org/article/10.1088/1367-2630/acf33a">
+    <img src="https://img.shields.io/badge/arXiv-paper?style=socia&logo=googledocv&logoColor=white&labelColor=grey&color=blue"></a>
+<a href="https://arxiv.org/abs/2308.12624">
+  <img src="https://img.shields.io/badge/Paper-blue?logo=arxiv&logoColor=white&labelColor=grey&color=blue"></a>
+<a href="https://www.youtube.com/watch?v=Gt9v7cN6FII">
+  <img src="https://img.shields.io/badge/Youtube-blue?logo=youtube&logoColor=white&labelColor=grey&color=blue"></a>
+<a href="https://www.bilibili.com/video/BV1zp4y1772H/">
+  <img src="https://img.shields.io/badge/dynamic/json?color=blue&label=bilibili&query=data.stat.view&url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Fweb-interface%2Fview%3Fbvid%3DBV1zp4y1772H"></a>
     </td>
   </tr>
 </table>
