@@ -88,7 +88,7 @@ The WINDY Lab (**W**estlake **IN**telligent unmanne**D** s**Y**stems Laboratory)
       <img src="https://github.com/user-attachments/assets/f75581de-d583-4eaf-85e4-97a3a382fae8" alt="项目缩略图" height="150"/>
     </td>
     <td align="left" valign="top" height="150">
-      <h3><a href="https://github.com/WindyLab/semi-super-skp">Semi-Supervised Semantic Key Point Detection via Bundle Adjustment</a></h3>
+      <h3><a href="https://github.com/WindyLab/semi-super-skp">Uncertainty-Aware Semi-Supervised Semantic Key Point Detection via Bundle Adjustment</a></h3>
       <p>This repository contains the code and data of our paper: "Uncertainty-Aware Semi-Supervised Semantic Key Point Detection via Bundle Adjustment" submitted to IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2024. </p>
   <a href="https://shiyuzhao.westlake.edu.cn/2024IROSLiKai.pdf">
     <img src="https://img.shields.io/badge/Paper-blue?logo=googledocs&logoColor=white&labelColor=grey&color=blue"></a>
