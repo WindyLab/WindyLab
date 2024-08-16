@@ -1,4 +1,7 @@
-![LOGO-蓝色-横版-长L版本](https://github.com/user-attachments/assets/90da0918-76d2-4c28-9013-2cab3c2b75fc)
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/0cb855e5-59ea-471b-9be7-271cf9ef1428" width="60%"/>
+</div>
 
 <p align="center">
   <a href="https://space.bilibili.com/2044042934">
@@ -78,6 +81,26 @@ The WINDY Lab (**W**estlake **IN**telligent unmanne**D** s**Y**stems Laboratory)
 </p>
     </td>
   </tr>
+
+  <tr>
+    <td align="center" valign="center" height="150">
+      <img src="https://github.com/user-attachments/assets/337dd8bc-64e9-4543-b3a2-8bad50a3c40b" alt="项目缩略图" height="150"/>
+    </td>
+    <td align="left" valign="top" height="150">
+      <h3><a href="https://github.com/WindyLab/spatial-temporal-triangulation-for-bearing-only-cooperative-motion-estimation">Optimal Spatial-Temporal Triangulation for Bearing-Only Cooperative Motion Estimation</a></h3>
+      <p>This is the repository for the paper "Optimal Spatial-Temporal Triangulation for Bearing-Only Cooperative Motion Estimation". This paper is conditionally accepted by Automatica. </p>
+  <a href="https://arxiv.org/abs/2310.15846">
+    <img src="https://img.shields.io/badge/arXiv-paper?style=socia&logo=arxiv&logoColor=white&labelColor=grey&color=blue"></a>
+  <a href="https://arxiv.org/pdf/2310.15846.pdf">
+    <img src="https://img.shields.io/badge/Paper-blue?logo=googledocs&logoColor=white&labelColor=grey&color=blue"></a>
+  <a href="https://www.bilibili.com/video/BV1dw411B7RP/?spm_id_from=333.999.0.0&vd_source=0eec9f8ad388935277d70e12aac978ba">
+    <img src="https://img.shields.io/badge/Video-blue?logo=bilibili&logoColor=white&labelColor=grey&color=blue"></a>
+  <a href="https://opensource.org/licenses/MIT">
+    <img src="https://img.shields.io/badge/License-MIT-yellow.svg"></a>
+</p>
+    </td>
+  </tr>
+  
 
   <tr>
     <td align="center" valign="center" height="150">
