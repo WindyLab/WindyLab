@@ -39,6 +39,26 @@ The WINDY Lab (**W**estlake **IN**telligent unmanne**D** s**Y**stems Laboratory)
 
   <tr>
     <td align="center" valign="center" height="150">
+      <img src="https://github.com/user-attachments/assets/b3145469-c23a-49f4-8aea-52ab87aad59f" alt="项目缩略图" height="150"/>
+    </td>
+    <td align="left" valign="top" height="150">
+      <h3><a href="https://github.com/WindyLab/MAV6D">Keypoint-Guided Efficient Pose Estimation and Domain Adaptation for Micro Aerial Vehicles</a></h3>
+      <p>This is the repository for the paper "Keypoint-Guided Efficient Pose Estimation and Domain Adaptation for Micro Aerial Vehicles" published in 
+        <a href="https://ieeexplore.ieee.org/document/10530350">IEEE Transactions on Robotics</a> in May 2024. </p>
+  <a href="https://ieeexplore.ieee.org/document/10530350">
+    <img src="https://img.shields.io/badge/Paper-blue?logo=googledocs&logoColor=white&labelColor=grey&color=blue"></a>
+  <a href="https://www.bilibili.com/video/BV1XD421M7t9/?spm_id_from=333.999.0.0&vd_source=0eec9f8ad388935277d70e12aac978ba">
+    <img src="https://img.shields.io/badge/Video-blue?logo=bilibili&logoColor=white&labelColor=grey&color=blue"></a>
+  <a href="https://www.youtube.com/watch?v=ppTR65gGlgg">
+    <img src="https://img.shields.io/badge/Video-blue?logo=youtube&logoColor=white&labelColor=grey&color=blue"></a>
+  <a href="https://opensource.org/licenses/MIT">
+    <img src="https://img.shields.io/badge/License-MIT-yellow.svg"></a>
+</p>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" valign="center" height="150">
       <img src="https://github.com/user-attachments/assets/c45fc2fe-bdfc-4978-97a1-bcfe1c7fc61a" alt="项目缩略图" height="150"/>
     </td>
     <td align="left" valign="top" height="150">
