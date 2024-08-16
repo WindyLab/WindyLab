@@ -106,7 +106,7 @@ The WINDY Lab (**W**estlake **IN**telligent unmanne**D** s**Y**stems Laboratory)
     </td>
     <td align="left" valign="top" height="150">
       <h3><a href="https://github.com/WindyLab/spatial-temporal-triangulation-for-bearing-only-cooperative-motion-estimation">Optimal Spatial-Temporal Triangulation for Bearing-Only Cooperative Motion Estimation</a></h3>
-      <p>This is the repository for the paper "Optimal Spatial-Temporal Triangulation for Bearing-Only Cooperative Motion Estimation". This paper is conditionally accepted by Automatica. </p>
+      <p>This is the repository for the paper "Optimal Spatial-Temporal Triangulation for Bearing-Only Cooperative Motion Estimation".</p>
   <a href="https://arxiv.org/abs/2310.15846">
     <img src="https://img.shields.io/badge/arXiv-paper?style=socia&logo=arxiv&logoColor=white&labelColor=grey&color=blue"></a>
   <a href="https://arxiv.org/pdf/2310.15846.pdf">
